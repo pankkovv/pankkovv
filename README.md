@@ -1,22 +1,34 @@
-<h1 align="center">Hi <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif">
+<h1 align="left">
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/pankkovv/pankkovv/blob/main/Denis%20Pankov.JPG?raw=true">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/pankkovv/pankkovv/blob/main/Denis%20Pankov.JPG?raw=true">
  <img alt="YOUR-ALT-TEXT" src="*handshake*">
-</picture>, I'm Denis</h1>
-<h2 align="center">
+</picture>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=An+enthusiast+in+Java+programming)](https://git.io/typing-svg)
-</h2>
+</h1>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=pankkovv&label=Profile%20views&color=0e75b6&style=flat" alt="pankkovv" /> </p>
+<p align="left"> 
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=pankkovv&theme=nord" alt="pankkovv" />
+</a> 
+</p>
 
-
+<h3>About me:</h3>
 - 🔭 I’m currently working on [SoftPlat2048](https://github.com/software-sales-and-installations/softplat-back)
 - 🤝 I’am looking for a job in the field of Java software development
 - 🌱 I'm always learning new things
 - 📫Connect with me: email- **pankkovv@yandex.ru** or telegram- **@pankkovv**
 
 <h3 align="left">Languages and Tools:</h3>
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pankkovv&show_icons=true&locale=en&layout=compact&theme=nord" alt="pankkovv" />
+</p>
+<p>ㅤ</p>
+<p>ㅤ</p>
+<p>ㅤ</p>
+<p>ㅤ</p>
+<p>ㅤ</p>
 <p align="left"> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
@@ -33,5 +45,3 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
-<p>ㅤ</p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pankkovv&show_icons=true&locale=en&layout=compact" alt="pankkovv" /></p>
