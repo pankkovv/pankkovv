@@ -14,6 +14,7 @@
 </a> 
 </p>
 
+
 <h3>About me:</h3>
 - 🔭 I’m currently working on [SoftPlat2048](https://github.com/software-sales-and-installations/softplat-back)
 - 🤝 I’am looking for a job in the field of Java software development
