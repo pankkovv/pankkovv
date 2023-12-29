@@ -33,6 +33,8 @@
 <p align="left"> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
+<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/47359?s=48&v=4" alt="spring" width="40" height="40"/> </a>
+
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://h2database.github.io/html/main.html" target="_blank" rel="noreferrer"> <img src="https://h2database.github.io/html/images/h2-logo-2.png" alt="postgresql" width="60" height="40"/> </a> 
 <a href="https://hibernate.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/348262?s=48&v=4" alt="git" width="40" height="40"/> </a>
@@ -46,3 +48,5 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
+*Java, Spring Boot, Spring Security, Spring Mail, Spring Data JPA, Apache Maven, Docker, PostgreSQL, H2, Hibernate, Mapstruct, Query DSL, Lombok, JUnit 5, Mockito, Swagger, GitHub, Linux Ubuntu, Bash, Nginx
+
