@@ -39,7 +39,7 @@
 <a href="https://h2database.github.io/html/main.html" target="_blank" rel="noreferrer"> <img src="https://h2database.github.io/html/images/h2-logo-2.png" alt="postgresql" width="60" height="40"/> </a> 
 <a href="https://hibernate.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/348262?s=48&v=4" alt="git" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://junit.org" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/abbaedce4b226ea68b0fd43521472b0b146d5ed57956116f69752f43e7ddd7d8/68747470733a2f2f6a756e69742e6f72672f6a756e6974352f6173736574732f696d672f6a756e6974352d6c6f676f2e706e67" alt="git" width="40" height="40"/> </a>
+<a href="https://junit.org" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/874086?s=48&v=4" alt="git" width="40" height="40"/> </a>
 <a href="https://site.mockito.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/2054056?s=48&v=4" alt="git" width="40" height="40"/> </a>
 <a href="https://mapstruct.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/4086779?s=48&v=4" alt="git" width="40" height="40"/> </a>
 <a href="https://projectlombok.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/45949248?s=48&v=4" alt="git" width="40" height="40"/> </a>
@@ -50,3 +50,6 @@
 </p>
 *Java, Spring Boot, Spring Security, Spring Mail, Spring Data JPA, Apache Maven, Docker, PostgreSQL, H2, Hibernate, Mapstruct, Query DSL, Lombok, JUnit 5, Mockito, Swagger, GitHub, Linux Ubuntu, Bash, Nginx
 
+<p align="right"> 
+<img src="https://komarev.com/ghpvc/?username=pankkovv&label=Profile%20views&color=0e75b6&style=flat" alt="pankkovv" /> 
+</p>
